@@ -32,10 +32,10 @@ export default function LoginForm() {
       console.log("🚀 Iniciando login para:", email);
       const { token, user } = await loginRequest(email, password);
       console.log("✅ Login bem-sucedido, salvando sessão...");
-      
+
       saveSession(token, user);
       refreshUser();
-      
+
       console.log("📂 Sessão salva, redirecionando para o dashboard...");
 
       // Redirecionar para o destino original se vier de rota protegida
@@ -160,10 +160,6 @@ export default function LoginForm() {
             </p>
           </div>
         </div>
-
-        <p className="mt-10 text-center text-[11px] text-gray-600 font-bold uppercase tracking-[0.2em]">
-          Plataforma Segura SSL 256-bit
-        </p>
       </div>
     </div>
   );
