@@ -4,14 +4,23 @@
 
 **Plataforma SaaS de gestão financeira e operacional para equipes de CPA, com controle diário, metas, despesas e painel administrativo em tempo real.**
 
-![Next.js](https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind" />
+</p>
+
+### Backend & Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=express,prisma,postgres" />
+</p>
+
+### DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker" />
+</p>
 
 </div>
 
@@ -316,7 +325,7 @@ NEXT_PUBLIC_API_URL="http://localhost:3001"
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **João Rei dos Bugs**
+Desenvolvido por **Pedro Lucas**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 
