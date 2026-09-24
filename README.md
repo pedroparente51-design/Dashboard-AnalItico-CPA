@@ -4,23 +4,7 @@
 
 **Plataforma SaaS de gestão financeira e operacional para equipes de CPA, com controle diário, metas, despesas e painel administrativo em tempo real.**
 
-### Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind" />
-</p>
-
-### Backend & Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=express,prisma,postgres" />
-</p>
-
-### DevOps
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker" />
-</p>
+[![Tech Stack](https://skillicons.dev/icons?i=nextjs,react,ts,express,prisma,postgres,tailwind,docker)](https://skillicons.dev)
 
 </div>
 
