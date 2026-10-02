@@ -60,39 +60,39 @@ O **Dashboard Analítico CPA** é uma plataforma fullstack projetada para profis
 ## ✨ Funcionalidades
 
 ### Módulo Individual
-- 📊 **Dashboard principal** — métricas consolidadas de faturamento, investimento, lucro líquido e ROI global
-- 📅 **Controle Diário** — registro de ciclos com depósito, saque, baú e cooperação por plataforma
-- 📉 **CPA Negativo** — módulo dedicado para operações CPA com cálculo automático de resultado
-- 💰 **Gestão de Despesas** — cadastro e categorização de despesas com totalizadores
-- 🎯 **Metas** — definição de objetivos financeiros com acompanhamento de progresso
-- 📈 **Gráficos de Evolução** — visualização da evolução financeira e distribuição de capital via Recharts
-- 👤 **Perfil do Usuário** — edição de nome e foto de perfil com upload de imagem
-- 🔔 **Notificações Push** — notificações via Web Push API com Service Worker
-- 🔒 **Ocultação de Valores** — toggle para mascarar valores financeiros na interface
-- ⚙️ **Configurações** — gerenciamento de conta, notificações e redefinição de dados
+- **Dashboard principal** — métricas consolidadas de faturamento, investimento, lucro líquido e ROI global
+- **Controle Diário** — registro de ciclos com depósito, saque, baú e cooperação por plataforma
+- **CPA Negativo** — módulo dedicado para operações CPA com cálculo automático de resultado
+- **Gestão de Despesas** — cadastro e categorização de despesas com totalizadores
+- **Metas** — definição de objetivos financeiros com acompanhamento de progresso
+- **Gráficos de Evolução** — visualização da evolução financeira e distribuição de capital via Recharts
+- **Perfil do Usuário** — edição de nome e foto de perfil com upload de imagem
+- **Notificações Push** — notificações via Web Push API com Service Worker
+- **Ocultação de Valores** — toggle para mascarar valores financeiros na interface
+- **Configurações** — gerenciamento de conta, notificações e redefinição de dados
 
 ### Módulo de Equipe
-- 👥 **Criação e gerenciamento de equipes** — com código de convite exclusivo
-- 🏆 **Ranking de operadores** — classificação por lucro gerado
-- 📊 **Dashboard de equipe** — métricas agregadas por time
-- 💸 **Remessas de equipe** — controle de depósitos, saques e valores por operador
-- 🎯 **Metas de equipe** — objetivos por plataforma com status ativo/encerrado
-- 📋 **Operações** — registro de operações por plataforma e rede
-- 💳 **Despesas de equipe** — controle financeiro compartilhado
+- **Criação e gerenciamento de equipes** — com código de convite exclusivo
+- **Ranking de operadores** — classificação por lucro gerado
+- **Dashboard de equipe** — métricas agregadas por time
+- **Remessas de equipe** — controle de depósitos, saques e valores por operador
+- **Metas de equipe** — objetivos por plataforma com status ativo/encerrado
+- **Operações** — registro de operações por plataforma e rede
+- **Despesas de equipe** — controle financeiro compartilhado
 
 ### Painel Administrativo
-- 🛡 **Métricas globais** — total de usuários, equipes, operadores e receita da plataforma
-- 👤 **Gestão de usuários** — alteração de roles, ban/ativação e exclusão
-- 📜 **Feed de atividades** — registro em tempo real de ações na plataforma
-- 📋 **Logs de auditoria** — histórico detalhado de atividades dos usuários
+- **Métricas globais** — total de usuários, equipes, operadores e receita da plataforma
+- **Gestão de usuários** — alteração de roles, ban/ativação e exclusão
+- **Feed de atividades** — registro em tempo real de ações na plataforma
+- **Logs de auditoria** — histórico detalhado de atividades dos usuários
 
 ### PWA
-- 📱 **Progressive Web App** — instalável no celular com manifest.json e Service Worker
-- 🔔 **Push Notifications** — notificações nativas no desktop e mobile
+- **Progressive Web App** — instalável no celular com manifest.json e Service Worker
+- **Push Notifications** — notificações nativas no desktop e mobile
 
 ---
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 Dashboard-AnalItico-CPA/
@@ -238,7 +238,7 @@ NEXT_PUBLIC_API_URL="http://localhost:3001"
 
 ---
 
-## 💻 Uso
+## Uso
 
 1. **Acesse** `http://localhost:3000` no navegador
 2. **Registre-se** com nome, e-mail e senha na página `/register`
@@ -255,7 +255,7 @@ NEXT_PUBLIC_API_URL="http://localhost:3001"
 
 ---
 
-## 🖼 Screenshots
+## Screenshots
 
 <div align="center">
 
@@ -273,7 +273,7 @@ NEXT_PUBLIC_API_URL="http://localhost:3001"
 
 ---
 
-## 📝 Scripts Disponíveis
+## Scripts Disponíveis
 
 ### Backend (`backend/`)
 
@@ -294,7 +294,7 @@ NEXT_PUBLIC_API_URL="http://localhost:3001"
 
 ---
 
-## 🗺 Roadmap
+## Roadmap
 
 - [ ] Separação das rotas do backend em módulos (controllers/routes)
 - [ ] Testes automatizados (unitários e de integração)
@@ -307,7 +307,7 @@ NEXT_PUBLIC_API_URL="http://localhost:3001"
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Desenvolvido por **Pedro Lucas**
 
